@@ -1,0 +1,19 @@
+{
+  "name": "api-pedidos",
+  "version": "1.0.0",
+  "description": "api de pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliezerCV/api-pedidos.git"
+  },
+  "author": "eliezer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliezerCV/api-pedidos/issues"
+  },
+  "homepage": "https://github.com/eliezerCV/api-pedidos#readme"
+}
